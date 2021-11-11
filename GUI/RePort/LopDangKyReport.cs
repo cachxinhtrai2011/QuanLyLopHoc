@@ -12,7 +12,7 @@ namespace GUI.RePort
                                  public string TenLopDangKy { get; set; }
                                  public string TenCLB { get; set; }
                                  public string CLB { get; set; }
-                                 public string NamHoc { get; set; }
+                                 public string NamHoc { get; set; } 
                                  public decimal HocPhi { get; set; }
                                  public int LichHoc { get; set; }
     }
