@@ -1,0 +1,16 @@
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\DataLayer.dll
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\Model.dll
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\Dapper.dll
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\EntityFramework.dll
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\DataLayer.pdb
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\Model.pdb
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\Model.dll.config
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\Dapper.xml
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\bin\Debug\EntityFramework.xml
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\obj\Debug\BussinesLayer.csprojAssemblyReference.cache
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\obj\Debug\BussinesLayer.csproj.CopyComplete
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\MIT\Desktop\TruongMamNonBK\BussinesLayer\obj\Debug\BussinesLayer.pdb
