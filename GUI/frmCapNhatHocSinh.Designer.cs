@@ -46,7 +46,7 @@
             this.errorProvider = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).BeginInit();
             this.SuspendLayout();
-            // namnnttnamnntt
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
