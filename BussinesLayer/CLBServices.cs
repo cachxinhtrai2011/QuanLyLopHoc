@@ -45,6 +45,18 @@ namespace BussinesLayer
             return GenericServices.ToDataTable(MaCLBvaCount.ToList());
 
         }
-        
+        public static List<CLB> LayDanhSachCLB()
+        {
+            return CLBRepo.GetAlls();
+
+        }
+        public static int UpdateTTCLB(string MaCLB, string TenCLB)
+        {
+            return CLBRepo.UpdateTTCLB(MaCLB, TenCLB);
+        }
+        public static int ThemCLB(string TenCLB)
+        {
+            return CLBRepo.ThemCLBMoi(TenCLB);
+        }
     }
 }
