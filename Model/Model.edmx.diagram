@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9db2fa66519342fb9489891676d72b58" Name="Diagram1">
+        <EntityTypeShape EntityType="MamNonBKModel.CLB" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MamNonBKModel.DangKyHoc" Width="1.5" PointX="7.5" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MamNonBKModel.GiaoVu" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MamNonBKModel.HoaDon" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MamNonBKModel.HocSinh" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MamNonBKModel.LopDangKy" Width="1.5" PointX="5.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MamNonBKModel.LopHanhChinh" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="MamNonBKModel.FK_LopDangKy_CLB" ManuallyRouted="false" />
+        <AssociationConnector Association="MamNonBKModel.FK_DangKyHoc_HoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="MamNonBKModel.FK_DangKyHoc_LopDangKy" ManuallyRouted="false" />
+        <AssociationConnector Association="MamNonBKModel.FK_HoaDon_GiaoVu" ManuallyRouted="false" />
+        <AssociationConnector Association="MamNonBKModel.FK_HoaDon_HocSinh" ManuallyRouted="false" />
+        <AssociationConnector Association="MamNonBKModel.FK_HocSinh_LopHanhChinh" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
