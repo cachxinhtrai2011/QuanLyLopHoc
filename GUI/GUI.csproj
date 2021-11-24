@@ -358,10 +358,6 @@
       <Project>{3a31ab77-1c5c-433f-b76e-51c63367b79b}</Project>
       <Name>BussinesLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{55679c56-4e98-4299-ac83-162293fcd17b}</Project>
-      <Name>Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Chart-icon.png" />
