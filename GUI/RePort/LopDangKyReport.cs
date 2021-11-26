@@ -14,6 +14,6 @@ namespace GUI.RePort
                                  public string CLB { get; set; }
                                  public string NamHoc { get; set; }
                                  public decimal HocPhi { get; set; } 
-                                 public int LichHoc { get; set; } 
+                                 public int LichHoc { get; set; }  
     }
 }
