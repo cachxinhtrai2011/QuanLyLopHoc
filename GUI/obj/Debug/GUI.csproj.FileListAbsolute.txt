@@ -236,6 +236,3 @@ C:\Users\MIT\Desktop\TruongMamNonBK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.c
 C:\Users\MIT\Desktop\TruongMamNonBK\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\MIT\Desktop\TruongMamNonBK\GUI\obj\Debug\GUI.exe
 C:\Users\MIT\Desktop\TruongMamNonBK\GUI\obj\Debug\GUI.pdb
-C:\Users\quang huy\Desktop\QuanLyLopHoc\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
-C:\Users\quang huy\Desktop\QuanLyLopHoc\GUI\obj\Debug\GUI.exe
-C:\Users\quang huy\Desktop\QuanLyLopHoc\GUI\obj\Debug\GUI.pdb
