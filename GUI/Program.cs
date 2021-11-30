@@ -21,7 +21,7 @@ namespace GUI
             BonusSkins.Register();
             frmLogin Login = new frmLogin();
             Application.Run(Login);
-            
+             
         }
     }
 }
