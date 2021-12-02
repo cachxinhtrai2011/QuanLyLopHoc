@@ -16,7 +16,7 @@ namespace GUI
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            Application.SetCompatibleTextRenderingDefault(false); 
 
             BonusSkins.Register();
             frmLogin Login = new frmLogin();
