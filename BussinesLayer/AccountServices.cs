@@ -44,7 +44,7 @@ namespace BussinesLayer
                            select gv;
             return DsGiaoVu.ToList();
         }
-
+        //18521153 - bổ sung 1 xíu
         public static int ThemGiaoVu(string TenGiaoVu, string SDT, string Email, string TaiKhoan, string MatKhau)
         {
             return AccRepo.ThemGiaoVu(TenGiaoVu, SDT, Email, TaiKhoan, MatKhau);
