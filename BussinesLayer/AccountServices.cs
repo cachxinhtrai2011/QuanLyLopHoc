@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace BussinesLayer
 {
     public static class AccountServices
-    {
+    { 
         static IAccountRepository AccRepo;
         static AccountServices()
         {
