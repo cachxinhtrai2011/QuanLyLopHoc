@@ -21,7 +21,7 @@ namespace Model
         }
     
         public string MaHS { get; set; }
-        public string TenHS { get; set; }
+        public string HoTenHS { get; set; }
         public System.DateTime NgaySinh { get; set; }
         public Nullable<System.DateTime> NgayNhapHoc { get; set; }
         public string TenChaMe { get; set; }
