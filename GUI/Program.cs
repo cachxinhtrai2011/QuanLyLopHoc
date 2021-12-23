@@ -15,13 +15,13 @@ namespace GUI
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            Application.EnableVisualStyles(); 
+            Application.SetCompatibleTextRenderingDefault(false); 
 
             BonusSkins.Register();
             frmLogin Login = new frmLogin();
             Application.Run(Login);
-            
+             
         }
     }
 }
