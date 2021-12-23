@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.components = new System.ComponentModel.Container(); 
             this.dtpDuLieuHoaDon = new System.Windows.Forms.DateTimePicker();
             this.btnLoadDataHD = new DevExpress.XtraEditors.SimpleButton();
             this.gdcDuLieuHoaDon = new DevExpress.XtraGrid.GridControl();
