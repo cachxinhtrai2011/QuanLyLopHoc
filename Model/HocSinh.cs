@@ -21,6 +21,7 @@ namespace Model
         }
     
         public string MaHS { get; set; }
+        publuc string MaCMND {get; set; }
         public string TenHS { get; set; }
         public System.DateTime NgaySinh { get; set; }
         public Nullable<System.DateTime> NgayNhapHoc { get; set; }
