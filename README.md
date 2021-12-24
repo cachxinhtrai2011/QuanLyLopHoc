@@ -1,4 +1,5 @@
 # QuanLyLopHoc
+*Cách cài đặt:
 - Đối với dev:
 	Download thư mục về chạy file MamNonBK.sql, nhớ sửa lại đường dẫn đến thư mục data của SQL Server 
 
