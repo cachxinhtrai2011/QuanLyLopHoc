@@ -16,7 +16,9 @@
 
 - Đối với user:
 	Bước 1: Click double vào file SetupData.bat để cài đặt CSDL vào trong máy
+	
 	Bước 2: Vào thư mục debug, click double vào file Setup1.msi để cài đặt
+	
 	Bước 3: Enjoy cái momment này
 
 	tài khoản mặc định là: thuandt
