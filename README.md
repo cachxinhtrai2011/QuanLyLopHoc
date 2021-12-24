@@ -22,3 +22,14 @@
 	tài khoản mặc định là: thuandt
 
 	password: 123abc
+	
+*Thành viên tham gia:
+- 18521468 Đỗ Trung Thuận	
+- 18521153 Đỗ Bảo Ngọc	
+- 18520411 Kim Quang Huy
+- 20520282 Nguyễn Ngọc Đông Phương	
+- 19522029 Đỗ Minh Phúc
+*GVHD: Nguyễn Tấn Toàn
+
+Lập trình trực quan - IT008.M12 - 25/12/2021
+
