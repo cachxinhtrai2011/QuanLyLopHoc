@@ -29,7 +29,7 @@
 - 18520411 Kim Quang Huy
 - 20520282 Nguyễn Ngọc Đông Phương	
 - 19522029 Đỗ Minh Phúc
-*GVHD: Nguyễn Tấn Toàn
+- GVHD: Nguyễn Tấn Toàn
 
 Lập trình trực quan - IT008.M12 - 25/12/2021
 
